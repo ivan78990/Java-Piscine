@@ -1,18 +1,4 @@
-<div align="center">
-    <h1>
-        JAVA Piscine
-    </h1>
-    <h4>A small coffee break</h4>
-    <p>
-        <a href="#Description">Description</a> •
-        <a href="#Repository structure">Repository structure</a> •
-        <a href="https://github.com/blazeitdude/libft/blob/master/LICENSE">License</a>
-    </p>
-</div>
 
-
->**important!** Important! all projects are written for use with Java 1.8<br/>
-> the project can and will be updated with new useful features.<br/>
 ## Description
 
 This project is part of the training at school 42 (individual), the purpose of which is to get acquainted with the terrible and wonderful Java. 
