@@ -19,63 +19,14 @@ This project is part of the training at school 42 (individual), the purpose of w
 During the 14 days provided for the project, both the basics of OOP, Java, and working with databases (using the example of Postgresql), working with input streams, and the Maven automatic project collector will be studied. 
 The final element is working with the Spring framework and writing a simple chat.
 
-## Repository structure
-
-```
-.
-├── README.md
-├── day_00
-│   ├── en.subject.pdf
-│   ├── ex00
-│   ├── ex01
-│   ├── ex02
-│   ├── ex03
-│   └── ex04
-├── day_01
-│   ├── en.subject.pdf
-│   ├── ex00
-│   ├── ex01
-│   ├── ex02
-│   ├── ex03
-│   ├── ex04
-│   └── ex05
-├── day_02
-│   ├── en.subject.pdf
-│   ├── ex00
-│   ├── ex01
-│   └── ex02
-├── day_03
-│   ├── en.subject.pdf
-│   ├── ex00
-│   ├── ex01
-│   └── ex02
-├── day_04
-│   ├── en.subject.pdf
-│   ├── ex00
-│   ├── ex01
-│   └── ex02
-├── day_05
-│   ├── en.subject.pdf
-│   ├── ex00
-│   ├── ex01
-│   ├── ex02
-│   └── ex03
-├── day_06
-│   ├── en.subject.pdf
-│   ├── ex00
-│   ├── ex01
-│   └── ex02
-├── day_07
-│   ├── en.subject.pdf
-│   ├── ex00
-│   └── ex01
-├── day_08
-│   ├── en.subject.pdf
-│   ├── ex00
-│   └── ex01
-└── day_09
-    ├── en.subject.pdf
-    ├── ex00
-    └── ex01
-
-```
+### Days (individual projects)
+* Day 00: Structures and arrays
+* Day 01: OOP and Collections
+* Day 02: IO and Files
+* Day 03: Threads
+* Day 04: JAR
+* Day 05: SQL and JDBC
+* Day 06: JUnit and Mockito
+* Day 07: Reflection
+* Day 08: Spring
+* Day 09: Sockets
