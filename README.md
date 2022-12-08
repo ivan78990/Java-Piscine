@@ -1,7 +1,7 @@
 
 ## Description
 
-This project is part of the training at school 42 (individual), the purpose of which is to get acquainted with the terrible and wonderful Java. 
+This project is part of the training at school 21, the purpose of which is to get acquainted with the terrible and wonderful Java. 
 During the 14 days provided for the project, both the basics of OOP, Java, and working with databases (using the example of Postgresql), working with input streams, and the Maven automatic project collector will be studied. 
 The final element is working with the Spring framework and writing a simple chat.
 
